@@ -120,11 +120,14 @@ curl -X POST http://localhost:8000/api/reset
 
 ---
 
+
 ## 🙋‍♀️ Made by
 
 **Shreya H S**
 Machine Learning & Cloud Enthusiast 🌙☁️🤖
 Do Checkout - [Medium Post](https://medium.com/@shreyahs2004/building-a-local-ai-chatbot-using-fastapi-ollama-tinyllama-e2b6c8ba2e6f)
+
+
 ---
 
 ## 📄 License
