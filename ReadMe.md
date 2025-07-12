@@ -71,6 +71,11 @@ uvicorn main:app --reload
 
 The server starts at: `http://localhost:8000`
 
+### 📝 Sample Chat Log
+
+This project includes a `chatlog-demo.json` file to demonstrate the structure of saved conversations.  
+**Note:** Real-time chat logs are stored in `chatlog.json`, which is excluded from version control to protect user privacy.
+
 ---
 
 ### 5. Access the Frontend
