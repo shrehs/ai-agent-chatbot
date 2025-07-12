@@ -1,8 +1,3 @@
-Sure! Here's your complete and corrected `README.md` file saved as one block. I've fixed the extra `bash` tags and ensured everything is copy-paste ready:
-
----
-
-````markdown
 # 🤖 AI Agent Chatbot (FastAPI + Ollama + TinyLLaMA)
 
 An interactive AI chatbot powered by [Ollama](https://ollama.com/) and TinyLLaMA, served using FastAPI, and connected to a sleek custom frontend using HTML, CSS, and JavaScript.
@@ -129,7 +124,7 @@ curl -X POST http://localhost:8000/api/reset
 
 **Shreya H S**
 Machine Learning & Cloud Enthusiast 🌙☁️🤖
-
+Do Checkout - [Medium Post](https://medium.com/@shreyahs2004/building-a-local-ai-chatbot-using-fastapi-ollama-tinyllama-e2b6c8ba2e6f)
 ---
 
 ## 📄 License
@@ -137,6 +132,4 @@ Machine Learning & Cloud Enthusiast 🌙☁️🤖
 This project is open-source and free to use. Modify and build upon it as needed!
 
 ```
-
----
 
