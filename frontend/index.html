@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AI Chatbot</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter">
+  <style>
+    body {
+      background-color: #121212;
+      color: #e0e0e0;
+      font-family: 'Inter', sans-serif;
+      padding: 2rem;
+      max-width: 600px;
+      margin: auto;
+    }
+    #chat {
+      white-space: pre-wrap;
+      margin-bottom: 1rem;
+    }
+    input, button {
+      padding: 0.5rem;
+      border-radius: 5px;
+      border: none;
+      margin-right: 0.5rem;
+    }
+    input {
+      width: 70%;
+    }
+    button {
+      background: #00adb5;
+      color: white;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <h2>🤖 AI Chatbot (Ollama)</h2>
+  <div id="chat"></div>
+  <input type="text" id="message" placeholder="Type your message..." />
+  <button onclick="sendMessage()">Send</button>
+  <button onclick="resetChat()">Reset</button>
+
+  <script src="script.js?v=2"></script>
+</body>
+</html>
