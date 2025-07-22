@@ -24,6 +24,13 @@ An interactive AI chatbot powered by [Ollama](https://ollama.com/) and TinyLLaMA
 - **Others:** Pydantic, Requests, CORS, JSON
 
 ---
+### 🔍 ML Concepts Applied:
+
+- Inference pipelines
+- Prompt logic
+- Data persistence and session state
+
+---
 
 ## 🚀 Getting Started
 
@@ -120,6 +127,13 @@ curl -X POST http://localhost:8000/api/reset
 
 ---
 
+## 🔧 Future Enhancements
+- Add multi-agent orchestration logic with role-based LLMs (e.g., Research Agent, Summarizer Agent)
+- Integrate embeddings-based memory for personalized responses
+- Lightweight UI with feedback metrics
+
+---
+
 
 ## 🙋‍♀️ Made by
 
@@ -133,6 +147,4 @@ Do Checkout - [Medium Post](https://medium.com/@shreyahs2004/building-a-local-ai
 ## 📄 License
 
 This project is open-source and free to use. Modify and build upon it as needed!
-
-```
 
